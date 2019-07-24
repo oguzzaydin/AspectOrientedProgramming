@@ -1,0 +1,7 @@
+C:\Projects\AspectOrientedProgramming\AspectOrientedProgramming\bin\Debug\AspectOrientedProgramming.exe.config
+C:\Projects\AspectOrientedProgramming\AspectOrientedProgramming\bin\Debug\AspectOrientedProgramming.exe
+C:\Projects\AspectOrientedProgramming\AspectOrientedProgramming\bin\Debug\AspectOrientedProgramming.pdb
+C:\Projects\AspectOrientedProgramming\AspectOrientedProgramming\obj\Debug\AspectOrientedProgramming.csprojAssemblyReference.cache
+C:\Projects\AspectOrientedProgramming\AspectOrientedProgramming\obj\Debug\AspectOrientedProgramming.csproj.CoreCompileInputs.cache
+C:\Projects\AspectOrientedProgramming\AspectOrientedProgramming\obj\Debug\AspectOrientedProgramming.exe
+C:\Projects\AspectOrientedProgramming\AspectOrientedProgramming\obj\Debug\AspectOrientedProgramming.pdb
